@@ -4,10 +4,10 @@ Lebanese American University Department of Computer Science & Mathematics Object
 Final-project
 
 Instructor: Dr. Azzam Mourad
-#Project overview
+# Project overview
 This project is a clone/simplified version of BlackBoard. It includes: • A sign-up and log-in system for all users • A course registration system that allows: o Instructors to teach and take control over a course o Students to register (add/drop) courses • An announcement/assignment manager that enables: o Instructors to publish assignments/announcements o Students to view announcements and their assignments • A GPA calculator feature for students
 
-#Summary of the code:
+# Summary of the code:
 • Sign up: The sign-up page consists of the user entering his personal information, and this information will be written and stored in a text file. The inputs of the user will be validated using exception handling.
 
 • Log in: The log-in page consists of the user entering his email and password that he/she chose earlier during the sign-up process. We read from the users' text file to check if the credentials entered are valid or not.
