@@ -4,6 +4,8 @@ Lebanese American University Department of Computer Science & Mathematics Object
 Final-project
 
 Instructor: Dr. Azzam Mourad
+#Team 19
+Rani Salman 202001002 Mohamad Khalifeh¬ 202000865 Ali Youssef Solh 202004405
 # Project overview
 This project is a clone/simplified version of BlackBoard. It includes: • A sign-up and log-in system for all users • A course registration system that allows: o Instructors to teach and take control over a course o Students to register (add/drop) courses • An announcement/assignment manager that enables: o Instructors to publish assignments/announcements o Students to view announcements and their assignments • A GPA calculator feature for students
 
